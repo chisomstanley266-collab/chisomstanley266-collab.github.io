@@ -5,4 +5,4 @@ My core toolkit includes Python, SQL, Excel, and Power BI, which I use to extrac
 I approach data with a balance of analytical depth and business awareness, ensuring that technical solutions translate into real-world impact.
 #show download: true
 #google_analytics:
-#theme:
+theme: jekyll-theme-minimal
