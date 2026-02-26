@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Analytics Portfolio
 # Project 1
 **Title:** [London Ambulance Service- High-Service Spend & Procurement Analysis](https://github.com/chisomstanley266-collab/chisomstanley266-collab.github.io/blob/main/Transparency%20Report%20solved.xlsx)
 
