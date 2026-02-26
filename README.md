@@ -17,5 +17,5 @@
 * Demonstrated the ability to interpret public sector financial data beyond surface reporting, focusing on governance, risk exposure, and procurement efficiency.
 
 **Dashboard:**
-![nhs_dashboard](nhs_dashboard.png)
+![nhs__dashboard](nhs__dashboard.png)
 
