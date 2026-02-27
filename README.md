@@ -39,4 +39,4 @@
 ![star_schema_data_model](star_schema_data_model.png)
 
 **Dashboard:**
-![Rmr_dashboard](Rmr_dashboard.png)
+![rma_dashboard](rma_dashboard.png)
