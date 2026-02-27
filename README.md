@@ -23,7 +23,7 @@
 # Project 2
 **Title:** [FCA RMAR Sector Performance & Regulatory Risk Dashboard (2016–2024)](https://github.com/chisomstanley266-collab/chisomstanley266-collab.github.io/blob/main/retail-intermediary-market-2024-underlying-data_solved.xlsx)
 
-**Tool Used:** Microsoft Excel (Advanced Pivot & Data Model), Power Query (Data Cleaning & Transformation), Excel Data Model (Relational Modelling), Star Schema Design, Dimensional Modelling Principles, Regulatory Data (FCA RMAR - November 2025 Publication)
+**Tool Used:** Microsoft Excel, Advanced Pivot, Power Query, Excel Data Model (Relational Modelling), Star Schema Design, Dimensional Modelling Principles, Regulatory Data (FCA RMAR - November 2025 Publication)
 
 **Project Description:** This project transforms the Financial Conduct Authority’s Retail Mediation Activities Return (RMAR) publication into a structured analytical data model to assess market performance, financial stability, and risk across UK intermediary firms. Over 20 regulatory tables were cleaned and reshaped using Power Query, then modelled using a star schema within Excel’s Data Model. I designed central fact tables for Revenue, Capital, Professional Indemnity Insurance (PII), Adviser, and Client metrics, linked to dimension tables for Year, Firm Type, and Activity Type. The result is an interactive dashboard that converts static regulatory disclosures into strategic sector intelligence, enabling cross-filtered analysis of growth, concentration, solvency, cost pressure, profitability, and client dynamics.
 
