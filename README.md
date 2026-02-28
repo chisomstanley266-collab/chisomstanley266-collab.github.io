@@ -28,12 +28,12 @@
 **Project Description:** This project transforms the Financial Conduct Authority’s Retail Mediation Activities Return (RMAR) publication into a structured analytical data model to assess market performance, financial stability, and risk across UK intermediary firms. Over 20 regulatory tables were cleaned and reshaped using Power Query, then modelled using a star schema within Excel’s Data Model. I designed central fact tables for Revenue, Capital, Professional Indemnity Insurance (PII), Adviser, and Client metrics, linked to dimension tables for Year, Firm Type, and Activity Type. The result is an interactive dashboard that converts static regulatory disclosures into strategic sector intelligence, enabling cross-filtered analysis of growth, concentration, solvency, cost pressure, profitability, and client dynamics.
 
 **Key Findings:** 
-* Since 2016, total regulated revenue has expanded significantly, driven largely by non-investment insurance activity, while retail investment revenues showed volatility before stabilising in 2024.
-* Revenue remains structurally concentrated, with insurance intermediaries accounting for the majority of sector income.
-* Capital positions are broadly resilient, with most firms maintaining surpluses above minimum requirements and a declining share operating in deficit.
-* Insurance costs place disproportionate pressure on smaller firms, where PII premiums consume a higher percentage of revenue.
-* Profitability is strongest among mid-sized adviser firms, suggesting operational scale advantages without the margin compression observed in the largest firms.
-* Client numbers remain stable overall, although increased attrition in 2024 indicates emerging competitive or market pressures.
+* Total regulated revenue increased from approximately £19bn in 2016 to over £33bn in 2024, with non-investment insurance accounting for more than £26bn (≈79%) of total 2024 revenue.
+* In 2024, insurance intermediaries generated approximately £24.8bn, significantly exceeding financial advisers (£6.2bn) and mortgage brokers (£1.4bn), indicating strong structural concentration within the insurance segment.
+* Between 2020 and 2024, the proportion of firms operating in deficit declined, while firms with capital surpluses above £100,000 remained dominant across all firm types, reflecting sustained regulatory solvency strength.
+* For firms with revenue under £100k, PII premiums represented up to 8.1% of regulated revenue (insurance intermediaries), compared to approximately 1.0–1.7% for firms earning over £10m, highlighting scale-driven cost efficiency.
+* Firms with 6–50 advisers reported average total revenue per firm exceeding £3.2m, with average pre-tax profits above £570k, while firms with over 50 advisers showed margin compression and negative average retained profit.
+* Total ongoing clients reached approximately 3.9–4.0 million in 2024, with 534k new clients offset by 335k ceased clients, indicating continued growth but rising churn dynamics.
 
 **Star Schema Data Model – FCA RMAR Dashboard:**
 ![star_schema_data_model](star_schema_data_model.png)
