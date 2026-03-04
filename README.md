@@ -50,8 +50,12 @@
 **Dataset Source:** HM Land Registry — [Overseas companies that own property in England and Wales](https://use-land-property-data.service.gov.uk/datasets/ccod)
 
 **Key Findings:** 
-* Foreign-owned properties are heavily concentrated in Greater London, with the highest density in districts such as Westminster and Kensington & Chelsea.
-* Leasehold properties account for approximately 57% of foreign-owned titles, reflecting the dominance of apartment developments in major cities.
-* British Virgin Islands, Jersey, and the Isle of Man appear as the most common jurisdictions of foreign property ownership.
-* High-value property ownership is strongly clustered in central London, where average property prices exceed the national distribution.
-* Foreign investment is primarily urban-focused, with major cities such as London, Manchester, and Birmingham showing far higher ownership concentrations than rural regions.
+* Foreign-owned properties are heavily concentrated in Greater London, with the highest density observed in districts such as the City of Westminster and Kensington & Chelsea, confirming London as the primary hub for overseas real estate investment.
+* Leasehold ownership dominates foreign-held property titles, accounting for roughly 57% of the dataset, reflecting the prevalence of apartment developments and managed residential buildings in urban markets.
+* Foreign property ownership is strongly linked to offshore financial jurisdictions, with British Virgin Islands, Jersey, and the Isle of Man appearing as the most frequent locations of incorporation for overseas property-holding entities.
+* Mid-market properties dominate foreign investment activity, with the £500K–£1M price band containing the largest number of properties, indicating that international investors are not focused solely on ultra-luxury real estate.
+* High-value properties (£3M+) represent a smaller but strategically concentrated segment, primarily located in central London districts, suggesting targeted acquisition of premium assets.
+* Foreign property investment exhibits a clear urban preference, with significantly higher concentrations in major metropolitan areas compared to rural districts.
+
+**Dashboard Report:**
+![newest_powerbi_report](newest_powerbi_report.png)
