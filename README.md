@@ -47,6 +47,7 @@
 **Tools Used:** [Python](https://github.com/chisomstanley266-collab/chisomstanley266-collab.github.io/blob/main/Properties_foreign_owned_script.ipynb), Pandas, Postcodes.io API, Power BI, DAX, Power Query Editor, UK Land Registry Open Data
 
 **Project Description:** This project analyzes the geographic distribution and ownership structure of foreign-owned properties in England and Wales. The objective is to uncover spatial patterns in overseas property investment and understand how ownership types such as Freehold and Leasehold are distributed across districts and regions. The dataset was sourced from the UK Land Registry Overseas Companies Ownership dataset. Because the raw dataset contains postcodes rather than geographic coordinates, Python was used to enrich the data by converting postcodes into latitude and longitude using the postcodes.io API. The processed dataset was then imported into Power BI where data modeling and DAX measures were applied to build an interactive geospatial dashboard. The final dashboard allows exploration of foreign property ownership patterns through location mapping, tenure comparison, country ownership analysis, and property value aggregation.
+
 **Dataset Source:** HM Land Registry — [Overseas companies that own property in England and Wales](https://use-land-property-data.service.gov.uk/datasets/ccod)
 
 **Key Findings:** 
