@@ -62,3 +62,23 @@
 ![newest_powerbi_report](newest_powerbi_report.png)
 ![propertybi](propertybi.png)
 ![propertybi2](propertybi2.png)
+
+# Project 4
+**Title:** Sun Medical Hospital Database Design and Healthcare Data Modelling Project
+
+**SQL code:** [Sun Medical Hospital Database Design (DDL)](https://github.com/chisomstanley266-collab/chisomstanley266-collab.github.io/blob/main/healthcare_DDL)
+
+**SQL skills used:** SQL Server, T-SQL, ERD Design, DDL, Crow’s Foot Notation, Database Normalisation, Relational Database Modelling
+
+** Project Descriptions:** Designed a relational database model for Sun Medical Hospital to manage patient care, staff responsibilities, admissions, wards, observations, specialist treatments, and surgical operations. The project focused on creating a scalable healthcare database structure that supports accurate record keeping, data integrity, and efficient querying across clinical and operational processes. The database was modelled using Crow’s Foot notation and converted into SQL Server T-SQL scripts with primary keys, foreign keys, constraints, bridge tables, validation rules, and indexing. The design supports one-to-many and many-to-many relationships, particularly where multiple staff members may be assigned to a single operation with different roles.
+
+**Key Findings:** 
+* Designed a structured healthcare database that connects patients, staff, wards, admissions, observations, and operations.
+* Implemented relational integrity using primary keys, foreign keys, CHECK constraints, UNIQUE constraints, and NOT NULL rules.
+* Added an Operation_Staff bridge table to correctly model many-to-many relationships between operations and medical staff.
+* Improved data quality by applying validation rules for age, gender, discharge dates, risk level, staff roles, and ward capacity.
+* Supported healthcare workflow tracking from patient admission through observation, specialist care, and surgical procedures.
+* Created indexed fields to improve query performance across high-use relationships such as patients, admissions, observations, and operations.
+
+  **Image:**
+  ![Schema Relationship](schema.jpg)
