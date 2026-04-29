@@ -60,3 +60,5 @@
 
 **Dashboard Report:**
 ![newest_powerbi_report](newest_powerbi_report.png)
+![propertybi](propertybi.png)
+![propertybi2](propertybi2.png)
