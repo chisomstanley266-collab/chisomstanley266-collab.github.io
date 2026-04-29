@@ -70,7 +70,7 @@
 
 **SQL skills used:** SQL Server, T-SQL, ERD Design, DDL, Crow’s Foot Notation, Database Normalisation, Relational Database Modelling
 
-** Project Descriptions:** Designed a relational database model for Sun Medical Hospital to manage patient care, staff responsibilities, admissions, wards, observations, specialist treatments, and surgical operations. The project focused on creating a scalable healthcare database structure that supports accurate record keeping, data integrity, and efficient querying across clinical and operational processes. The database was modelled using Crow’s Foot notation and converted into SQL Server T-SQL scripts with primary keys, foreign keys, constraints, bridge tables, validation rules, and indexing. The design supports one-to-many and many-to-many relationships, particularly where multiple staff members may be assigned to a single operation with different roles.
+**Project Descriptions:** Designed a relational database model for Sun Medical Hospital to manage patient care, staff responsibilities, admissions, wards, observations, specialist treatments, and surgical operations. The project focused on creating a scalable healthcare database structure that supports accurate record keeping, data integrity, and efficient querying across clinical and operational processes. The database was modelled using Crow’s Foot notation and converted into SQL Server T-SQL scripts with primary keys, foreign keys, constraints, bridge tables, validation rules, and indexing. The design supports one-to-many and many-to-many relationships, particularly where multiple staff members may be assigned to a single operation with different roles.
 
 **Key Findings:** 
 * Designed a structured healthcare database that connects patients, staff, wards, admissions, observations, and operations.
@@ -92,6 +92,7 @@
 **Skills:** Python, PyTorch, Ultralytics YOLO, Computer vision, OpenCV,  Pandas,  NumPy,  Google Colab (GPU),  Roboflow, Matplotlib, Seaborn
 
 **Data Source:** [Ghana Crop Disease Dataset (Kaggle)](https://www.kaggle.com/datasets/ohagwucollinspatrick/ghana-crop-disease)
+
 **Project Description:** This project investigates the effectiveness of deep learning–based object detection models for crop disease localisation using real-world agricultural imagery. Two models, YOLOv8n and YOLOv11s, were evaluated under both augmented and non-augmented training conditions. The study adopts a data-centric approach, focusing not only on model performance but also on how dataset characteristics such as class imbalance, annotation quality, and small object prevalence influence detection outcomes. The goal is to understand whether improvements in model architecture alone are sufficient for reliable agricultural disease detection.
 
 **Key Findings:**
