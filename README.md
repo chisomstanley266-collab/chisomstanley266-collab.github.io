@@ -87,11 +87,11 @@
 
 **Title:** Crop Disease Detection using YOLOv8n & YOLOv11s
 
-** Python codes:** [YOLOv8n](https://github.com/chisomstanley266-collab/chisomstanley266-collab.github.io/blob/main/COM752_yolov8_S24011767.ipynb), [YOLOv11s](https://github.com/chisomstanley266-collab/chisomstanley266-collab.github.io/blob/main/COM752_yolov11_S24011767.ipynb)
+**Python codes:** [YOLOv8n](https://github.com/chisomstanley266-collab/chisomstanley266-collab.github.io/blob/main/COM752_yolov8_S24011767.ipynb), [YOLOv11s](https://github.com/chisomstanley266-collab/chisomstanley266-collab.github.io/blob/main/COM752_yolov11_S24011767.ipynb)
 
 **Skills:** Python, PyTorch, Ultralytics YOLO, Computer vision, OpenCV,  Pandas,  NumPy,  Google Colab (GPU),  Roboflow, Matplotlib, Seaborn
 
-** Project Description:** This project investigates the effectiveness of deep learning–based object detection models for crop disease localisation using real-world agricultural imagery. Two models, YOLOv8n and YOLOv11s, were evaluated under both augmented and non-augmented training conditions. The study adopts a data-centric approach, focusing not only on model performance but also on how dataset characteristics such as class imbalance, annotation quality, and small object prevalence influence detection outcomes. The goal is to understand whether improvements in model architecture alone are sufficient for reliable agricultural disease detection.
+**Project Description:** This project investigates the effectiveness of deep learning–based object detection models for crop disease localisation using real-world agricultural imagery. Two models, YOLOv8n and YOLOv11s, were evaluated under both augmented and non-augmented training conditions. The study adopts a data-centric approach, focusing not only on model performance but also on how dataset characteristics such as class imbalance, annotation quality, and small object prevalence influence detection outcomes. The goal is to understand whether improvements in model architecture alone are sufficient for reliable agricultural disease detection.
 
 **Key Findings:**
 * YOLOv11s performed better than YOLOv8n (+~0.05 mAP@50)
